@@ -5,9 +5,31 @@ Platform built to manage a public speaking club — meetings, members, evaluatio
 🔗 [Live demo](https://toastmastersfsa-app-production.up.railway.app/)
 
 ---
+## 📸 Screenshots
 
-<img width="1920" alt="Dashboard" src="https://github.com/user-attachments/assets/64dcfb99-d5ae-4534-b963-86875186e8e8" />
+![Screenshot 1]
+*Authentication overview*
+<img width="1920" alt="authentication" src="https://github.com/user-attachments/assets/64dcfb99-d5ae-4534-b963-86875186e8e8" />
+
+![Screenshot 2]
+*Dashboard overview*
 <img width="1920" alt="Meetings" src="https://github.com/user-attachments/assets/ea187f6a-bf6c-4c31-98ab-791c118d74d4" />
+
+![Screenshot 3]
+*Meeting scheduling and role assignment*
+<img width="1920" alt="Email" src="https://github.com/user-attachments/assets/7509deac-74f4-40f7-b3f1-081e8426cbe7" />
+
+![Screenshot 4]
+*Club management*
+<img width="1920" alt="Roles" src="https://github.com/user-attachments/assets/8868ed88-091c-4180-9ee1-a57ebb194e30" />
+
+![Screenshot 5]
+*Email campaigns and scheduling* 
+<img width="1920" alt="Documents" src="https://github.com/user-attachments/assets/7cd95523-95fe-40fb-8329-d743c7c6175c" />
+
+![Screenshot 6]
+*E-mail scheduling in action*
+<img width="1275" alt="Overview" src="https://github.com/user-attachments/assets/4c259ac1-35b7-4d0f-9ae6-b09660c03e08" />
 
 ---
 
@@ -33,13 +55,6 @@ Platform built to manage a public speaking club — meetings, members, evaluatio
 
 **Document Management**<br>
 └─ `Upload and organize meeting resources, agendas, and materials.`
-
----
-
-<img width="1920" alt="Email" src="https://github.com/user-attachments/assets/7509deac-74f4-40f7-b3f1-081e8426cbe7" />
-<img width="1920" alt="Roles" src="https://github.com/user-attachments/assets/8868ed88-091c-4180-9ee1-a57ebb194e30" />
-<img width="1920" alt="Documents" src="https://github.com/user-attachments/assets/7cd95523-95fe-40fb-8329-d743c7c6175c" />
-<img width="1275" alt="Overview" src="https://github.com/user-attachments/assets/4c259ac1-35b7-4d0f-9ae6-b09660c03e08" />
 
 ---
 
