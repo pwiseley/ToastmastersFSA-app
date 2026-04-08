@@ -1,3 +1,5 @@
+> 🇫🇷 [Lire en français](README.fr.md)
+
 # Toastmasters FSA — Club Management App
 
 Platform built to manage a public speaking club — meetings, members, evaluations, emails, and analytics, all in one place.
